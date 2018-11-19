@@ -8,7 +8,8 @@ public class TankerDispenseDetails
 	private int noOfPatches;
 	private String areaName;
 	
-	public int getTankerId() {
+	public int getTankerId() 
+	{
 		return tankerId;
 	}
 	public void setTankerId(int tankerId) {
